@@ -1,2 +1,1 @@
-# simple-shell
-Simple shell work alx
+simple shell group work
